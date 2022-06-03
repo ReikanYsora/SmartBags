@@ -1,0 +1,28 @@
+**Localization : **//EN - FR - DE (BETA)//
+
+**Show on your UI :** inventory slots, bank slots, money, bank money, loot log system and fully customized options
+
+**Show in chat log: ** loots / gold received / lost log system with custom settings (for character and group)
+
+**Settings panel :** Available in the game settings panel for customize all options (colors, warning alert, lock / unlock, texts colors and many others)
+
+**In game functions :** <Mouse Left> to move frame, <Mouse Right> to change infos display (switch between character and bank mode), auto-switch option when bank is open / close, keybind for quickly switch between each modes
+
+(Contact me for support in game if necessary @ReikanYsora)
+
+===================================================================================================================================================================================================
+
+[U][B][COLOR="Yellow"]Localization :[/COLOR][/B][/U] EN - FR - DE (BETA)
+
+[U][B][COLOR="Yellow"]Show on your UI :[/COLOR][/B][/U] inventory slots, bank slots, money, bank money, loot log system and fully customized options
+
+[U][B][COLOR="Yellow"]Show in chat log : [/COLOR][/B][/U] loots / gold received / lost log system with custom settings (for character and group)
+
+[U][B][COLOR="Yellow"]Settings panel :[/COLOR][/B][/U] Available in the game settings panel for customize all options (colors, warning alert, lock / unlock, texts colors and many others)
+
+[U][B][COLOR="Yellow"]In game functions :[/COLOR][/B][/U]  <Mouse Left> to move frame, <Mouse Right> to change infos display (switch between character and bank mode), auto-switch option when bank is open / close, keybind for quickly switch between each modes
+
+[COLOR="LightBlue"][I][B]Author :[/B][/I] Reikan[/COLOR]
+
+[COLOR="LightBlue"][I][SIZE="1"](Contact me for support in game if necessary @ReikanYsora[/SIZE][/I])[/COLOR]
+

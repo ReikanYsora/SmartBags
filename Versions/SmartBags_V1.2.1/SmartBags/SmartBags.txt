@@ -1,0 +1,6 @@
+## Title: SmartBags v1.2.1 |cFFC20A(By Reikan)|r
+## APIVersion: 100003
+## SavedVariables: SmartBagsSettings
+
+SmartBags.lua
+SmartBags.xml

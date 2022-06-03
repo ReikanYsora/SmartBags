@@ -1,0 +1,11 @@
+## Title: SmartBags v1.3.0 |c69b7ff(By Reikan)|r
+## APIVersion: 100003
+## SavedVariables: SmartBagsSettings
+
+Libs/LibStub/LibStub.lua
+Libs/LibAddonMenu-1.0/LibAddonMenu-1.0.lua
+
+SmartBags.lua
+SmartBags_Localization.lua
+SmartBags_Settings.lua
+SmartBags.xml

@@ -1,0 +1,14 @@
+## Title: SmartBags v1.3.2 |c1cde65(By ReikanYsora)|r
+## APIVersion: 100003
+## SavedVariables: SmartBagsSettings
+
+Libs/LibStub/LibStub.lua
+Libs/LibAddonMenu-1.0/LibAddonMenu-1.0.lua
+
+LUA/SmartBags.lua
+LUA/SmartBags_LootGoldLog.lua
+LUA/SmartBags_Lang.lua
+LUA/SmartBags_Settings.lua
+
+XML/SmartBags.xml
+XML/Bindings.xml

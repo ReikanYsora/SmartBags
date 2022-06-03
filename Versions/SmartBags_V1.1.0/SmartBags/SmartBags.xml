@@ -1,0 +1,32 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="SmartBagsUI" mouseEnabled="true" movable="true" clampedToScreen="true">
+		<Dimensions x="300" y="40" />
+			<OnUpdate>
+				SmartBags.Update()
+			</OnUpdate>						
+			<OnMouseDown>
+				SmartBags.GetMouseButtons(button)
+			</OnMouseDown>
+			<OnMoveStop>
+				SmartBags.OnMoveStop(self)
+			</OnMoveStop>
+			<Controls name="$(parent)Panel" resizeToFitDescendents="true">
+                <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" alpha ="0.0"/>
+				<Label name="$(parent)ShowInfos" font="ZoFontGameBold" color="CFDCBD" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" text="ShowInfosBags: ">
+                    <Anchor point="LEFT" relativeTo="$(parent)BG" relativePoint="LEFT" offsetX="10"/>
+                </Label>
+				<Texture name="$(parent)SmartBagsUICoinIcon" textureFile="EsoUI/art/icons/item_generic_coinbag.dds" verticalAlignment="CENTER">
+                    <Dimensions x ="24" y="24"/>
+					<Anchor point="TOPLEFT" relativeTo="$(parent)ShowInfos" relativePoint="RIGHT" offsetX="10" offsetY="-12"/>
+                </Texture>
+				<Label name="$(parent)ShowMoneyInfos" font="ZoFontGameBold" color="CFDCBD" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" text="ShowInfosMoney: ">
+                   <Anchor point="TOPLEFT" relativeTo="$(parent)SmartBagsUICoinIcon" relativePoint="RIGHT" offsetX="5" offsetY="-10"/>
+                </Label>
+				<Label name="$(parent)ShowInfosQuality" font="ZoFontGameBold" color="CFDCBD" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" text="ShowInfosQuality: ">
+                    <Anchor point="LEFT" relativeTo="$(parent)BG" relativePoint="LEFT" offsetX="10" offsetY="25"/>
+                </Label>				
+			</Controls>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>
